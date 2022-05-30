@@ -1,2 +1,2 @@
-# batch-processing-
-GUI batch orocessing app e
+# batch processing app 
+GUI batch processing app 
